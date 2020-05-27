@@ -11,6 +11,8 @@
 ## Unreal Engine
 
 * [UE4 Online Learning - Editor](https://www.unrealengine.com/ko/onlinelearning-courses/unreal-engine-editor-fundamentals---editor-introduction)
+* [UE4 Online Learning - launcher](https://learn.unrealengine.com/course/2456021/module/5394724?moduletoken=UHxxnDLPW8TrAQlwIrBYitEGjePD2RP6aNHN8Z~C5QjFqdeKrvR4DCAa1R0fIxGM&LPId=0)
+* [Making Braid-style Game](https://www.ue4community.wiki/Making_Braid-style_game)
 * [UE4 Introduction to Paper2D](https://www.youtube.com/watch?v=w5I3ljBJKa0&list=PLZlv_N0_O1gauJh60307mE_67jqK42twB&index=2)
 * [Unreal C++ Basics](http://blog.naver.com/PostList.nhn?blogId=destiny9720&from=postList&categoryNo=19)
 * [UE4 for Unity Developer (docs)](https://docs.unrealengine.com/ko/GettingStarted/FromUnity/index.html)
